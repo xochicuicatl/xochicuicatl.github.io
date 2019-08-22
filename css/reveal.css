@@ -1405,6 +1405,10 @@ body {
     visibility: visible !important;
 }
 
+audio {
+    color: #000;
+}
+
 /* Video backgrounds */
 .reveal .slide-background video {
     position: absolute;
